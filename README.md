@@ -1,0 +1,2 @@
+# expenses-cli
+Expenses CLI
